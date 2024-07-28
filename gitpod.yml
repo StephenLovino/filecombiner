@@ -1,0 +1,16 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: ./install-android-sdk.sh
+    command: ./gradlew build
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - GabrielBB.vscode-lombok
+    - redhat.java
+
+ports:
+  - port: 8080
+    onOpen: open-preview
