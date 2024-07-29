@@ -22,8 +22,8 @@ Installation:**
 
 You can download the latest version of the executable from the Releases section of this repository.
 
-**Contributions:
-**
+**Contributions:**
+
 If you have any suggestions or improvements, please feel free to contribute by opening an issue or submitting a pull request.
 
 **License:**
