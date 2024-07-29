@@ -11,9 +11,10 @@ Additionally, FileCombiner offers a unique feature for hiding or stealthily embe
 **Features:**
 
 Combine Files: Merge multiple files into one. This can be useful for organizing or consolidating data without affecting the original file's structure.
+
 Extract Files: Extract embedded ZIP files from a combined file, allowing you to access and manage the contents without altering the combined file.
-Hide Sensitive Files: Stealthily embed sensitive files within normal-looking files, such as images or videos, for secure storage.
-Usage:
+
+Hide Sensitive Files: Stealthily embeds sensitive files within normal-looking files, such as images or videos, for secure storage.
 
 Important Note:
 
