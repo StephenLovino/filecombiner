@@ -15,21 +15,19 @@ Extract Files: Extract embedded ZIP files from a combined file, allowing you to 
 Hide Sensitive Files: Stealthily embed sensitive files within normal-looking files, such as images or videos, for secure storage.
 Usage:
 
-**Combining Files:** Use the tool to merge files according to your needs. This process is flexible and allows you to consolidate various file types into a single file while preserving the original structure.
-**Extracting Files:** Use the tool to extract embedded files from a combined file. This feature helps you access and manage embedded content without modifying the combined file itself.
-**Hiding Sensitive Files**: Use the tool to hide sensitive files within normal file types. This adds an additional layer of security for confidential data.
 Important Note:
 
 **Testing:** Always test the tool on sample files before using it on important or irreplaceable files. This ensures that the merging and extraction processes work as expected and that your data is handled correctly.
-**Disclaimer: The creator of this tool is not responsible for any damage or loss of files that may occur during the use of this application. Use it at your own risk and ensure that you have backups of your original files before performing any operations.
-Installation:
-**
+**Disclaimer: The creator of this tool is not responsible for any damage or loss of files that may occur during the use of this application. Use it at your own risk and ensure that you have backups of your original files before performing any operations.**
+
+**Installation:**
+
 You can download the latest version of the executable from the Releases section of this repository.
 
-Contributions:
+**Contributions:**
 
 If you have any suggestions or improvements, please feel free to contribute by opening an issue or submitting a pull request.
 
-License:
-
+**License:
+**
 This project is licensed under the MIT License - see the LICENSE file for details.
