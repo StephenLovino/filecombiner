@@ -28,6 +28,6 @@ You can download the latest version of the executable from the Releases section 
 
 If you have any suggestions or improvements, please feel free to contribute by opening an issue or submitting a pull request.
 
-**License:
-**
+**License:**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
