@@ -8,7 +8,7 @@ FileCombiner merges files into a single file using the "concatenate" method, whi
 
 **Features:**
 
-- **Combine Files:** Merge multiple files into one using the concatenate method, which hides sensitive files within normal files without altering their recognizability.
+- **Combine Files:** Merge two files into one using the concatenate method, which hides sensitive files within normal files without altering their recognizability.
 - **Extract Files:** Separate or extract embedded ZIP files from a combined file using the FileCombiner application, allowing you to access and manage the contents.
 - **Hide Sensitive Files:** Stealthily embed sensitive files within normal-looking files like images or videos for secure storage.
 
